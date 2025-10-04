@@ -1,7 +1,13 @@
 [package]
 name = "next_matching_day"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+description = "A simple Rust library, built on chrono, to find the next occurrence of a date based on various criteria."
+license = "MIT"
+repository = "https://github.com/your-username/next-matching-day"
+readme = "README.md"
+keywords = ["chrono", "date", "time", "calendar", "next"]
+categories = ["date-and-time"]
 
 [dependencies]
-chrono = "0.4.42"
+chrono = "0.4"

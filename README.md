@@ -15,7 +15,6 @@ Add this to your `Cargo.toml`:
 ```toml
 [dependencies]
 next-matching-day = "0.1.0" # Or the latest version
-chrono = "0.4"
 ```
 
 ## Usage
